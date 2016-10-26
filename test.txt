@@ -1,2 +1,2 @@
-test1
+test edited from putty
 just adding a file to repo
